@@ -6,7 +6,7 @@ The primary scientific objective of this project is to model how primary triterp
 
 ---
 
-## ⚖️ Regulatory Notice & Repository Governance
+## Regulatory Notice & Repository Governance
 To preserve complete alignment with GitHub Trust & Safety standards, FDA software data policies, and institutional healthcare guidelines, this repository enforces strict operational parameters:
 
 * **Pure Formulaic Models:** All biological calculations, transport tensors, and concentration curves detailed within this repository rely exclusively on established mathematical rules, thermodynamic bounds, and peer-reviewed pharmacokinetic formulas. 
@@ -15,7 +15,7 @@ To preserve complete alignment with GitHub Trust & Safety standards, FDA softwar
 
 ---
 
-## 🔬 Mathematical Modeling of Lymphatic Targeting (Extended LaTeX)
+## Mathematical Modeling of Lymphatic Targeting (Extended LaTeX)
 
 The systemic absorption, interstitial convective fluid transit, and nodal partitioning of infused botanical constituents are modeled below using advanced transport phenomena equations.
 
@@ -63,7 +63,7 @@ Where:
 
 ---
 
-## 📂 Repository Architecture & Technical Assets
+## Repository Architecture & Technical Assets
 This repository organizes its educational documents, simulation parameters, and safety models systematically:
 
 * `/docs/Core_Lymphatic_Licorice_Tracking.pdf`: Core clinical education and reference framework detailing *Glycyrrhiza glabra* metabolites.
@@ -78,7 +78,7 @@ This repository organizes its educational documents, simulation parameters, and 
 
 ---
 
-## 🏛️ Legal Administration & Corporate Support
+## Legal Administration & Corporate Support
 This software module, mathematical tracking guide, and analytical asset catalog are maintained under strict corporate and legal oversight. To satisfy global regulatory tracking procedures, do **NOT** use public GitHub issue fields, public pull requests, or public comment timelines to post clinical calculations feedback, bug observations, or system adjustments.
 
 All source updates, formula customization requests, development pipeline tickets, formal complaints, and compliments must be routed exclusively to our designated legal representatives:
